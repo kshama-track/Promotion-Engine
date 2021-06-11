@@ -1,0 +1,10 @@
+C:\Users\kp102898\Downloads\PromotionEngine-main\PromotionEngine.Common\bin\Debug\PromotionEngine.Common.dll
+C:\Users\kp102898\Downloads\PromotionEngine-main\PromotionEngine.Common\bin\Debug\PromotionEngine.Common.pdb
+C:\Users\kp102898\Downloads\PromotionEngine-main\PromotionEngine.Common\obj\Debug\PromotionEngine.Common.csproj.CoreCompileInputs.cache
+C:\Users\kp102898\Downloads\PromotionEngine-main\PromotionEngine.Common\obj\Debug\PromotionEngine.Common.dll
+C:\Users\kp102898\Downloads\PromotionEngine-main\PromotionEngine.Common\obj\Debug\PromotionEngine.Common.pdb
+C:\fakenews\Promotion-Engine\PromotionEngine.Common\bin\Debug\PromotionEngine.Common.dll
+C:\fakenews\Promotion-Engine\PromotionEngine.Common\bin\Debug\PromotionEngine.Common.pdb
+C:\fakenews\Promotion-Engine\PromotionEngine.Common\obj\Debug\PromotionEngine.Common.csproj.CoreCompileInputs.cache
+C:\fakenews\Promotion-Engine\PromotionEngine.Common\obj\Debug\PromotionEngine.Common.dll
+C:\fakenews\Promotion-Engine\PromotionEngine.Common\obj\Debug\PromotionEngine.Common.pdb
